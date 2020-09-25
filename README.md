@@ -1,8 +1,10 @@
 # Proth-Theorem-javascript
 
 Author: Dennis R. Chibuike
+
 Language: Javascript
-25/09/2020
+
+Date: 25/09/2020
 
 This is a Javascript function that checks if a number given meets the criteria to be a proth number.
 i.e 
